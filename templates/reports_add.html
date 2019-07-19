@@ -1,0 +1,47 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<h3>Dear lynx, add your report</h3>
+
+<div class="form-group">
+  <label for="usr">Author:</label>
+  <input type="text" class="form-control" id="author">
+  <label for="usr">Quote:</label>
+  <textarea class="form-control" rows="5" id="quote"></textarea>
+</div>
+
+<p>Select a Lynx</p>
+
+<form action="/action_page.php">
+  <label for="usr">Author:</label>
+  <select name="lynxes">
+    <option value="Rodrigo Vazquez">Rodrigo Vazquez</option>
+    <option value="Leandro Palazzolo">Leandro Palazzolo</option>
+    <option value="Juan Troisi">Juan Troisi</option>
+    <option value="Tomas Piantanida">Tomas Piantanida</option>
+    <option value="Mauro Aragunde">Mauro Aragunde</option>
+    <option value="Lautaro Mosse">Lautaro Mosse</option>
+    <option value="Franco Varela">Franco Varela</option>
+  </select>
+  <br><br>
+  <input type="submit">
+</form>
+<button onclick="displayResult()">CLICK ME!</button>
+
+<!--<script>
+function displayResult() {
+  document.getElementById("quote").innerHTML = "Have a nice day!";
+}
+</script>-->
+<script>
+function displayResult() {
+    let data = "Learning how to write in a file."
+    window.alert("Tomatela te dije");
+    console.log(data.toString());
+}
+</script>
+<!--<script src=./static/scripts/reports.js></script>-->
+
+
+{% endblock %}

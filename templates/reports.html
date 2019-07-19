@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<h3>Reports</h3>
+
+<div class="row onePadding">
+    <div class="col-md-12 col-sm-12">
+        <div class="table-responsive">
+            <table class="table table-condensed">
+                <tr>
+                    <th>Lynx</th>
+                    <th>Quote</th>
+                </tr>
+                {% for lynx in reports | reports %}
+                    <tr>
+                        <td>{{lynx['author']}}</td>
+                        <td>{{lynx['quote']}}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}

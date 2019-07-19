@@ -1,0 +1,64 @@
+{
+author: Leandro Palazzolo,
+quote: I make the ranciest coffee
+},
+{
+author: Leandro Palazzolo,
+quote: Si me pico la nariz, me sangra
+}
+{
+author: Leandro Palazzolo,
+quote: Hay banditas elásticas en el gym? AY esta grasa no se quita!
+},
+{
+author: Leandro Palazzolo,
+quote: A la grande le puse cuca
+},
+{
+author: Juan Troisi,
+quote: My twin did it.
+},
+{
+author: Tomas Piantanida,
+quote: Call 0800-maniobras-peligrosas
+},
+{
+author: Juan Troisi,
+quote: Yo nooooo
+},
+{
+author: Luciano Alvarez,
+quote: You are all reported
+},
+{
+author: Lautaro Mosse,
+quote: Please call Debra
+},
+{
+author: Lautaro Mosse,
+quote: I'm not human... yet
+},
+{
+author: Luciano Alvarez,
+quote: Go to the stadium
+},
+{
+author: Mauro Aragunde,
+quote: I need proteeeeee
+},
+{
+author: Mr blanco,
+quote: Whatever you do MIR, if you run a 'sh ver' MIR, if you smile MIR, if you remediate vtp MIR, if you go to the texan MIR
+},
+{
+author: Rodrigo Vazquez,
+quote: Voltear PPM es como comer una naranja
+},
+{
+author: Rodrigo Vazquez,
+quote: 'Mi PC murio' (Game over)
+},
+{
+author: Franco Varela,
+quote: tutututututuut
+}
