@@ -1,0 +1,269 @@
+{
+author: Franco Varela Bibbo,
+quote: ¿Clase después del parcial? ¿De qué me hablás? No voy ni a gancho! *Hace doble montoncito*
+},
+{
+author: Franco Varela Bibbo,
+quote: Nosotros me suena a manada.
+},
+{
+author: Tomas Piantanida,
+quote: Si no cerras bien el cajón, queda abierto.
+},
+{
+author: Leandro Palazzolo,
+quote: Estoy muy caliente, máster.
+},
+{
+author: Leandro Palazzolo,
+quote: ¿Hay banditas elásticas en el gym? AY esta grasa no se quita!
+},
+{
+author: Leandro Palazzolo,
+quote: Viejo lobo de doglands.
+},
+{
+author: Leandro Palazzolo,
+quote: No me hagas ponerme violento.
+},
+{
+author: Leandro Palazzolo,
+quote: Me gusta ir a correr porque nos apoyamos entre nosotros.
+},
+{
+author: Leandro Palazzolo,
+quote: La proxima me la llevo a una sala.
+},
+
+{
+author: Eugenio Batch,
+quote: Vino Michael Fox a cebar unos mates.
+},
+
+{
+author: Tomas Piantanida,
+quote: Call 0800-maniobras-peligrosas.
+},
+{
+author: Tomas Piantanida,
+quote: No quiero preguntar por donde te ponen la punta.
+},
+{
+author: Tomas Piantanida,
+quote: ¿Qué hay que enderezar?
+},
+{
+author: Tomas Piantanida,
+quote: Hay que tener linea directa ahi... (pd: ahi significa admin de...)
+},
+{
+author: Tomas Piantanida,
+quote: ...we may approve your request... if we feel like it... gil.
+},
+{
+author: Tomas Piantanida,
+quote: No bdo, es muy grande y no entra. Siempre me pasa
+},
+{
+author: Tomas Piantanida,
+quote: Si querés andá bajando, Rodri.. 
+},
+
+{
+author: Juan Ignacio Troisi,
+quote: My twin did it.
+},
+{
+author: Juan Ignacio Troisi,
+quote: Yo no soy de ir a ver la tumba de Pio IV... yo soy más de lo social
+},
+{
+author: Juan Ignacio Troisi,
+quote: Yo nooooo!
+},
+{
+author: Juan Ignacio Troisi,
+quote: El del cardigan... El del cardigan puso la teca para pagar la fiesta!
+},
+{
+author: Juan Ignacio Troisi,
+quote: ¿Vamos a practicar solos a una sala Lean? Hay que llevar esto *agarra 2 bananas*
+},
+{
+author: Juan Ignacio Troisi,
+quote: El otro dia DP me vino a tocar el endpoint.
+},
+
+{
+author: Luciano Alvarez,
+quote: You are all reported.
+},
+{
+author: Luciano Alvarez,
+quote: El muchacho me tildó la pc 5 veces en 10 minutos. Voy al baño(la pc estaba muerta), vuelvo y el señor estaba sentado haciendo lo suyo.
+},
+{
+author: Luciano Alvarez,
+quote: ¿QUIÉN ME HACKEÓ LA PC?
+},
+{
+author: Luciano Alvarez,
+quote: Go to the stadium.
+},
+{
+author: Luciano Alvarez,
+quote: Nada como arrancar el día con una bananita.
+},
+{
+author: Luciano Alvarez,
+quote: DONDE ESTA MI TERMO!?.
+},
+{
+author: Luciano Alvarez,
+quote: ¿DÓNDE ESTÁ MI CHAPÓN?
+},
+{
+author: Luciano Alvarez,
+quote: Tengo que llegar y hacer la colita.
+},
+
+{
+author: Lautaro Mosse,
+quote: Please call Debra.
+},
+{
+author: Lautaro Mosse,
+quote: Tomi acabo rápido... la meeting
+},
+{
+author: Lautaro Mosse,
+quote: Boludeces, no. BALLOTAGE!
+},
+{
+author: Lautaro Mosse,
+quote: I'm not human... yet.
+},
+{
+author: Lautaro Mosse,
+quote: ¿Qué es el bien? ¿Qué es el mal? La respuesta los sorprenderá...
+},
+{
+author: Lautaro Mosse,
+quote: Cada nuevo día da nuevas cosas y allí creamos nuevos recuerdos.
+},
+{
+author: Lautaro Mosse,
+quote: TECHNICAL EXCELLENCE!
+},
+{
+author: Lautaro Mosse,
+quote: Yo me los clavo todos juntos. Si sos un YIIIIIIIIII te los clavás de a uno.
+},
+{
+author: Lautaro Mosse,
+quote: ...fui con Mauro al sexo piso...
+},
+{
+author: Lautaro Mosse,
+quote: M A C R O N U T R I E N T E S
+},
+{
+author: Lautaro Mosse,
+quote: En la punta tenía un... trombete
+},
+{
+author: Lautaro Mosse,
+quote: Tenes que masajear un poco el archivo.
+},
+
+{
+author: Mauro Aragunde,
+quote: I need proteeeeee.
+},
+{
+author: Mauro Aragunde,
+quote: Leña para el fuego.
+},
+{
+author: Mauro Aragunde,
+quote: Zapatillas de fútbol.
+},
+{
+author: Mauro Aragunde,
+quote: I am not above the law, I AM the law.
+},
+{
+author: Mauro Aragunde,
+quote: Igualmente somos impares, alguien queda solo...
+},
+{
+author: Mauro Aragunde,
+quote: Te voy a reventar el board a dependenciazos.
+},
+{
+author: Mauro Aragunde,
+quote: ¿Vos sos estúpido? ¿Cómo no tenés el developer mode?
+},
+
+{
+author: Rodrigo Vazquez,
+quote: Se empieza de abajo para arriba.
+},
+{
+author: Rodrigo Vazquez,
+quote: Voltear PPM es como comer una naranja.
+},
+{
+author: Rodrigo Vazquez,
+quote: 'Mi PC murio' (Game over).
+},
+{
+author: Rodrigo Vazquez,
+quote: Yo ya lo tengo abierto, no sé vos.
+},
+{
+author: Rodrigo Vazquez,
+quote: Y? Ya dominamos el mundo?
+},
+{
+author: Rodrigo Vazquez,
+quote: Que es esto? Pasa algo si lo prendo fuego?
+},
+{
+author: Rodrigo Vazquez,
+quote: Que es eso? Es touch? Qué pasa si toco acá?
+},
+{
+author: Rodrigo Vazquez,
+quote: Yo a las 14hs voy. A partir de las 14hs me encuentran en el gimnasio.
+},
+
+{
+author: Juan Ignacio Battaglino,
+quote: Vino el hijo de Bata. Vino Batatita.
+},
+{
+author: Juan Ignacio Battaglino,
+quote: No voy a decir nada porque sino termino en la reporter tool.
+},
+{
+author: Juan Ignacio Battaglino,
+quote: Avisame y bajo.
+},
+
+{
+author: Azafata,
+quote: I wanna see that big bass.
+},
+{
+author: Curro,
+quote: Yeeeeeeah, yeeeah, yeah, yeeeeah it's a 3.
+}
+{
+author: Mr blanco,
+quote: Whatever you do MIR, if you run a 'sh ver' MIR, if you smile MIR, if you remediate vtp MIR, if you go to the texan MIR.
+},
+{
+author: Paulo Coelho,
+quote: Estás en falda y se te ve todo.
+},

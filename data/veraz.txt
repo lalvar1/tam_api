@@ -1,0 +1,30 @@
+{
+debtor: Lautaro Mosse,
+amount: 1 beer,
+reason: Bet that Lucho couldn't learn 40 digits of PI,
+date: 05/04/2019
+},
+{
+debtor: Juan Ignacio Battaglino,
+amount: 2 beers,
+reason: Bet that Lucho couldn't learn 50 digits of PI,
+date: 05/04/2019
+},
+{
+debtor: Tomas Piantanida,
+amount: 8 lts of beer,
+reason: Failed to go to an after office event, by the pretext that was 'too tired'. Was caught playing with his PS4 afterwards,
+date: 05/04/2019
+},
+{
+debtor: Franco Ezequiel Varela Bibbo,
+amount: 2 dozens of croissants,
+reason: Failed to go to a team beering event. This represents an incompliance with TAM's after office policies,
+date: 11/04/2019
+},
+{
+debtor: Mauro Matias Aragunde,
+amount: 2 dozens of croissants,
+reason: Left his computer unlocked,
+date: 16/07/2019
+},

@@ -11,21 +11,30 @@ def init_api_routes(app):
 def page_about():
     return render_template('about.html', selected_menu_item="about")
 
+
 def page_index():
     return render_template('index.html', selected_menu_item="index")
+
 
 def page_reports():
     return render_template('reports.html', selected_menu_item="reports")
 
-def page_reports_add():
-    return render_template('reports_add.html', selected_menu_item="reports_add")
+
+def page_crew():
+    return render_template('crew.html', selected_menu_item="crew")
+
+
+def page_veraz():
+    return render_template('veraz.html', selected_menu_item="veraz")
+
 
 def init_website_routes(app):
     if app:
         app.add_url_rule('/about', 'page_about', page_about, methods=['GET'])
         app.add_url_rule('/', 'page_index', page_index, methods=['GET'])
         app.add_url_rule('/reports', 'page_reports', page_reports, methods=['GET'])
-        app.add_url_rule('/reports_add', 'page_reports_add', page_reports_add, methods=['GET'])
+        app.add_url_rule('/crew', 'page_crew', page_crew, methods=['GET'])
+        app.add_url_rule('/veraz', 'page_veraz', page_veraz, methods=['GET'])
 
 
 def list_routes(app):

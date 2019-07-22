@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<h3>Veraz</h3>
+
+<div class="row onePadding">
+    <div class="col-md-12 col-sm-12">
+        <div class="table-responsive">
+            <table class="table table-condensed">
+                <tr>
+                    <th>Debtor</th>
+                    <th>Debt</th>
+                    <th>Reason</th>
+                    <th>Update Date</th>
+                </tr>
+                {% for lynx in veraz | veraz %}
+                    <tr>
+                        <td>{{lynx['debtor']}}</td>
+                        <td>{{lynx['amount']}}</td>
+                        <td>{{lynx['reason']}}</td>
+                        <td>{{lynx['date']}}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}

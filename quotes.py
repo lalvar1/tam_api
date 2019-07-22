@@ -23,11 +23,4 @@ def funny_quotes():
         report_list = sorted(report_list, key=lambda k: k['author'])
     return report_list
 
-#print(funny_quotes())
-def complete_reports():
-    author = "author: el barto,"
-    quote = "asqwr"
-    with open("quotes.txt", "a") as file:
-        file.write("{}{}{}author: {}{}quote: {}{}{}".format("\n", "{", "\n", author, "\n", quote, "\n", "},"))
-
-#complete_reports()
+print(funny_quotes())
